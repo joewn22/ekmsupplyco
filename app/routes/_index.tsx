@@ -24,7 +24,7 @@ export default function Index() {
 				<div className={"relative w-full"}>
 					<div className="h-[80vh] w-full">
 						<img
-							src="/hero.png"
+							src="https://res.cloudinary.com/dg1g6ctku/image/upload/v1751563205/hero_ilht0d.png"
 							alt="EKM Supply Co"
 							className="w-full h-full"
 						/>
